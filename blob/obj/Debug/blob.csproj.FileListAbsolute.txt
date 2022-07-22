@@ -1,0 +1,48 @@
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\bin\Debug\blob.exe.config
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\bin\Debug\blob.exe
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\bin\Debug\blob.pdb
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\bin\Debug\AForge.dll
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\bin\Debug\AForge.Imaging.dll
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\bin\Debug\AForge.Math.dll
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\obj\Debug\blob.Form1.resources
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\obj\Debug\blob.Properties.Resources.resources
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\obj\Debug\blob.csproj.GenerateResource.Cache
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\obj\Debug\blob.exe
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\obj\Debug\blob.pdb
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob belah ketupat\blob\bin\Debug\blob.exe.config
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob belah ketupat\blob\obj\Debug\blob.exe
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob belah ketupat\blob\obj\Debug\blob.pdb
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\blob.exe.config
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob.exe
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob.pdb
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\blob.exe
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\blob.pdb
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\AForge.dll
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\AForge.Imaging.dll
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\AForge.Math.dll
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob.csprojResolveAssemblyReference.cache
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob.Form1.resources
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob.Properties.Resources.resources
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob.csproj.GenerateResource.Cache
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\obj\Debug\blob.csprojResolveAssemblyReference.cache
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\bin\Debug\AForge.xml
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\bin\Debug\AForge.Imaging.xml
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob\blob\bin\Debug\AForge.Math.xml
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\bin\Debug\blob.exe.config
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\obj\Debug\blob.exe
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\obj\Debug\blob.pdb
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\bin\Debug\blob.exe
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\bin\Debug\blob.pdb
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\bin\Debug\AForge.dll
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\bin\Debug\AForge.Imaging.dll
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\bin\Debug\AForge.Math.dll
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\bin\Debug\AForge.xml
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\bin\Debug\AForge.Imaging.xml
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\bin\Debug\AForge.Math.xml
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\obj\Debug\blob.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\obj\Debug\blob.Form1.resources
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\obj\Debug\blob.Properties.Resources.resources
+C:\Users\ASUS\Documents\SKRIPSI\C#\blob\blob\obj\Debug\blob.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\SKRIPSI\C#\ECF BLOB\blob\bin\Debug\blob.exe.config
+C:\Users\ASUS\Documents\SKRIPSI\C#\ECF BLOB\blob\obj\Debug\blob.exe
+C:\Users\ASUS\Documents\SKRIPSI\C#\ECF BLOB\blob\obj\Debug\blob.pdb

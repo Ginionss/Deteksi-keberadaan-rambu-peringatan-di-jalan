@@ -1,0 +1,12 @@
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\blob.exe.config
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\blob.exe
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\blob.pdb
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\AForge.dll
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\AForge.Imaging.dll
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\bin\Debug\AForge.Math.dll
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob kotak.csprojResolveAssemblyReference.cache
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob.Form1.resources
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob.Properties.Resources.resources
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob kotak.csproj.GenerateResource.Cache
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob.exe
+D:\Doc\UNDANA\SEM 7\SKRIPSI\C#\blob kotak\blob\obj\Debug\blob.pdb

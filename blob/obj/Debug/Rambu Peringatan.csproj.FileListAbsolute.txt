@@ -1,0 +1,30 @@
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\bin\Debug\blob.exe.config
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\obj\Debug\blob.exe
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\obj\Debug\blob.pdb
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\bin\Debug\blob.exe
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\bin\Debug\blob.pdb
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\bin\Debug\AForge.dll
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\bin\Debug\AForge.Imaging.dll
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\bin\Debug\AForge.Math.dll
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\bin\Debug\AForge.xml
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\bin\Debug\AForge.Imaging.xml
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\bin\Debug\AForge.Math.xml
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\obj\Debug\Rambu Peringatan.csprojResolveAssemblyReference.cache
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\obj\Debug\kuning.Form1.resources
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\obj\Debug\kuning.Properties.Resources.resources
+D:\Kuliah\semester 8\TA\HASIL\NICE TRY\blob\obj\Debug\Rambu Peringatan.csproj.GenerateResource.Cache
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\bin\Debug\blob.exe.config
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\obj\Debug\blob.exe
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\obj\Debug\blob.pdb
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\bin\Debug\blob.exe
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\bin\Debug\blob.pdb
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\bin\Debug\AForge.dll
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\bin\Debug\AForge.Imaging.dll
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\bin\Debug\AForge.Math.dll
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\bin\Debug\AForge.xml
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\bin\Debug\AForge.Imaging.xml
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\bin\Debug\AForge.Math.xml
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\obj\Debug\Rambu Peringatan.csprojResolveAssemblyReference.cache
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\obj\Debug\kuning.Form1.resources
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\obj\Debug\kuning.Properties.Resources.resources
+D:\Kuliah\semester 8\TA\1-SKRIPSIIIII\NICE TRY FIXXXXXXX\blob\obj\Debug\Rambu Peringatan.csproj.GenerateResource.Cache
